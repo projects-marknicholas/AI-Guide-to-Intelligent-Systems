@@ -1,0 +1,35 @@
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\Artificial Intelligence.exe
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\Artificial Intelligence.deps.json
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\Artificial Intelligence.runtimeconfig.json
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\Artificial Intelligence.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\Artificial Intelligence.pdb
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial_Intelligence.home.resources
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial Intelligence.csproj.GenerateResource.cache
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial Intelligence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial Intelligence.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial Intelligence.AssemblyInfo.cs
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial Intelligence.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial Intelligence.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\refint\Artificial Intelligence.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial Intelligence.pdb
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial Intelligence.genruntimeconfig.cache
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\ref\Artificial Intelligence.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial_Intelligence.Properties.Resources.resources
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial_Intelligence.selectDetails.resources
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial_Intelligence.listOfProperties.resources
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artificial Intelligence.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\obj\Debug\net8.0-windows\Artifici.D91B3592.Up2Date
+C:\Users\User\Documents\C#\Artificial Intelligence\Artificial Intelligence\bin\Debug\net8.0-windows\Costura.dll

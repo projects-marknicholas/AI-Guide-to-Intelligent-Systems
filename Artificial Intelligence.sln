@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Artificial Intelligence", "Artificial Intelligence\Artificial Intelligence.csproj", "{15616D62-444F-4CBF-A6B9-C6B201FA553A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AI Guide to Intelligent Systems", "AI Guide to Intelligent Systems\AI Guide to Intelligent Systems.vdproj", "{41098917-7403-400C-B90C-38E1EBA0D1F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15616D62-444F-4CBF-A6B9-C6B201FA553A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15616D62-444F-4CBF-A6B9-C6B201FA553A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15616D62-444F-4CBF-A6B9-C6B201FA553A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15616D62-444F-4CBF-A6B9-C6B201FA553A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41098917-7403-400C-B90C-38E1EBA0D1F1}.Debug|Any CPU.ActiveCfg = Debug
+		{41098917-7403-400C-B90C-38E1EBA0D1F1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {833F309D-A43F-46E3-9596-C1C6E6F07EBE}
+	EndGlobalSection
+EndGlobal
